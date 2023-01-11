@@ -1,15 +1,21 @@
 # EurekaProbe
-Magprobe for 3D printer
-![top](https://user-images.githubusercontent.com/101759743/208293354-f477c907-e90c-4c24-a250-d2297c26ae66.PNG)
-![bottom](https://user-images.githubusercontent.com/101759743/208293360-cec4c1bf-b003-4a0b-8ead-13a91a4511b2.PNG)
+The EurekaProbe is a PCB based microswitch probe for CoreXY 3D printers. This project takes inspiration from [Klicky](https://github.com/jlas1/Klicky-Probe/), [Euclid](https://github.com/nionio6915/Euclid_Probe) and [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe).
 
-# BOM
-2	* EurekaProbe PCB
-4	* 8x3-3 Countersunk magnets
-2	* M2.5 M6 Torx countersunk screw
-2 * M2.5 M5 Torx countersunk screw
-2 *	STMSO-M2.5-5ET
-2 * STMSO-M2.5-4ET
-4 * M3x5x4 heat inserts
-1 * Omron D2F
-1 * JST B2B-XH-A
+The aim of this project is to synthetsise some of the best ideas from those other projects and distill them into a highly reliable, simple, robust, cost effective and easy to source alternative.
+
+EurekaProbe is initially developed to be paired with the [DirtyBird](https://github.com/MakerBogans/dirtybird) toolhead for Voron CoreXY printers, however can be adapted to to all other toolheads (AfterBurner, StealthBurner, etc).
+
+Construction of EurekaProbe uses two identical PCBs which are magnetically coupled with countersunk 8x3 magnents. The PCBs are reversible, with one soldered as the Probe PCB and the other is attached onto the toolhead.
+
+Operation of the probe uses Klicky based macros to ensure the probe correctly attaches from the dock before probing the bed.
+
+
+## BOM
+- 2	* EurekaProbe PCB
+- 4	* 8x3-3 Countersunk magnets (matched pairs) [Aliexpress](https://www.aliexpress.com/item/1005001610172466.html)
+- 4 * M2.5x5mm Torx countersunk screw [Aliexpress](https://www.aliexpress.com/item/33006942612.html)
+- 4 * STMSO-M2.5-4ET [Aliexpress](https://www.aliexpress.com/item/1005003780036815.html)
+- 4 * M3x5mm low profile bolt [Aliexpress](https://www.aliexpress.com/item/33049052926.html)
+- 4 * M3x5x4 heat inserts [Aliexpress](https://www.aliexpress.com/item/1005003314830904.html)
+- 1 * Omron D2F [DigiKey](https://www.digikey.com.au/en/products/detail/omron-electronics-inc-emc-div/D2F-5/8593136)
+- 1 * JST B2B-XH-A [Aliexpress](https://www.aliexpress.com/item/4000029861567.html)
