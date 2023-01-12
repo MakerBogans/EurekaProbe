@@ -1,7 +1,7 @@
 # EurekaProbe
 The EurekaProbe is a PCB based microswitch probe for CoreXY 3D printers. This project takes inspiration from [Klicky](https://github.com/jlas1/Klicky-Probe/), [Euclid](https://github.com/nionio6915/Euclid_Probe) and [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe).
 
-The aim of this project is to synthetsise some of the best ideas from those other projects and distill them into a highly reliable, simple, robust, cost effective and easy to source alternative.
+The aim of this project is to synthesise some of the best ideas from those other projects and distill them into a highly reliable, simple, robust, cost effective and easy to source alternative.
 
 EurekaProbe is initially developed to be paired with the [DirtyBird](https://github.com/MakerBogans/dirtybird) toolhead for Voron CoreXY printers, however can be adapted to to all other toolheads (AfterBurner, StealthBurner, etc).
 
@@ -9,6 +9,13 @@ Construction of EurekaProbe uses two identical PCBs which are magnetically coupl
 
 Operation of the probe uses Klicky based macros to ensure the probe correctly attaches from the dock before probing the bed.
 
+## Assembly
+- Solder microswitch to one of the PCBs
+- Solder JST header to the other PCB
+- Solder STMSO nuts to both PCBs
+- Screw countersunk magents to PCBs via STMSO nuts with Torx screws. Ensure you have mixed polarity across the pairs
+- Attach toolhead PCB to carriage via M3x5 low profile bolts into heat inserts
+- Attach probe PCB to probe housing via M3x5 low profile bolts into heat inserts
 
 ## BOM
 - 2	* EurekaProbe PCB
