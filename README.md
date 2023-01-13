@@ -19,9 +19,9 @@ Operation of the probe uses Klicky based macros to ensure the probe correctly at
 
 ## BOM
 - 2	* EurekaProbe PCB
-- 4	* 8x3-3 Countersunk magnets (matched pairs) [Aliexpress](https://www.aliexpress.com/item/1005001610172466.html)
+- 4	* 8x3-3 Countersunk magnets [Aliexpress](https://www.aliexpress.com/item/1005001610172466.html)
 - 4 * M2.5x5mm Torx countersunk screw [Aliexpress](https://www.aliexpress.com/item/33006942612.html)
-- 4 * SMTSO-M2.5-4ET [Aliexpress](https://www.aliexpress.com/item/1005003780036815.html)
+- 4 * SMTSO-M2.5-2.5ET [Aliexpress](https://www.aliexpress.com/item/1005003780036815.html)
 - 4 * M3x5mm low profile bolt [Aliexpress](https://www.aliexpress.com/item/33049052926.html)
 - 4 * M3x5x4 heat inserts [Aliexpress](https://www.aliexpress.com/item/1005003314830904.html)
 - 1 * Omron D2F [DigiKey](https://www.digikey.com.au/en/products/detail/omron-electronics-inc-emc-div/D2F-5/8593136)
