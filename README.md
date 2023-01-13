@@ -1,4 +1,7 @@
 # EurekaProbe
+
+![top](https://user-images.githubusercontent.com/101759743/212232886-41792e27-531e-489f-abd1-f27bca22079c.PNG)
+
 The EurekaProbe is a PCB based microswitch probe for CoreXY 3D printers. This project takes inspiration from [Klicky](https://github.com/jlas1/Klicky-Probe/), [Euclid](https://github.com/nionio6915/Euclid_Probe) and [QuickDraw](https://github.com/Annex-Engineering/Quickdraw_Probe).
 
 The aim of this project is to synthesise some of the best ideas from those other projects and distill them into a highly reliable, simple, robust, cost effective and easy to source alternative.
