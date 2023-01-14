@@ -16,6 +16,9 @@ Operation of the probe uses Klicky based macros to ensure the probe correctly at
 Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting and assisting with development of this project.
 
 ## Assembly
+
+![eurekacarriage](https://user-images.githubusercontent.com/101759743/212459111-ce22d553-6cc3-424f-a5b7-5ea85d2c19fa.jpg)
+
 - Solder microswitch to one of the PCBs
 - Solder JST header to the other PCB
 - Solder STMSO nuts to both PCBs
