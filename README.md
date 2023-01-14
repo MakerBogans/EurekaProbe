@@ -12,6 +12,9 @@ Construction of EurekaProbe uses two identical PCBs which are magnetically coupl
 
 Operation of the probe uses Klicky based macros to ensure the probe correctly attaches from the dock before probing the bed.
 
+## Acknowledgements
+Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting and assisting with development of this project.
+
 ## Assembly
 - Solder microswitch to one of the PCBs
 - Solder JST header to the other PCB
