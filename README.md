@@ -19,9 +19,9 @@ Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting an
 
 ![eurekacarriage](https://user-images.githubusercontent.com/101759743/212459111-ce22d553-6cc3-424f-a5b7-5ea85d2c19fa.jpg)
 
+- Solder SMTSO nuts to both PCBs
 - Solder microswitch to one of the PCBs
 - Solder JST header to the other PCB
-- Solder STMSO nuts to both PCBs
 - Screw countersunk magents to PCBs via SMTSO nuts with Torx screws. Ensure you have mixed polarity across the pairs
 - Attach toolhead PCB to carriage via M3x5 low profile bolts into heat inserts
 - Attach probe PCB to probe housing via M3x5 low profile bolts into heat inserts
