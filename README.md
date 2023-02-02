@@ -37,7 +37,7 @@ Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting an
 
 ## Carriage mounts
 
-__Coming soon__
+A Eureka compatible carriage is avilable for the DirtyBird toolhead over on [the projects GitHub Page](https://github.com/MakerBogans/dirtybird/blob/main/3mf/Carriage/DB_Eureka_Carriage_JST.3mf)
 
 ## Probe docks
 
