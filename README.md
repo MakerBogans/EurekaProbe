@@ -12,6 +12,12 @@ Construction of EurekaProbe uses two identical PCBs which are magnetically coupl
 
 Operation of the probe uses Klicky based macros to ensure the probe correctly attaches from the dock before probing the bed.
 
+## But what's the point/benefit of this over existing probes?
+
+- PCB based design ensures the magnets are always secured and correctly seated. No glues required, no ongoing maintenance, always repeatable coupling
+- Unlike Euclid which has a voltage input and rating due to the LED circuit, Eureka does away with any voltage in the circuit because it is just a microswitch like any other endstop. So there is virtually no chance of backfeeding 24V or similar back to your MCU. All you need is to connect it to signal and ground on a endstop port
+- Cheaper, easier to source than Euclid (at least for us Aussies), with a more generous licence arrangement
+
 ## Acknowledgements
 Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting and assisting with development of this project.
 
