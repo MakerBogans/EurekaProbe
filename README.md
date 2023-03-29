@@ -61,9 +61,9 @@ Printed parts are pre-oriented for printing. Use your typical Voron part setting
 
 ![](Images/2.4%20and%20Trident%20dock%20stls.png)
 
-- 1 x [Eureka Dock](STLs/Eureka%20Dock.stl)
-- 1 x [Eureka Trident Dock Arm](STLs/Eureka%202.4%20and%20Trident%20Dock%20Arm.stl)
-- 1 x [Trident Dock Sidearm](STLs/Eureka%202.4%20and%20Trident%20Dock%20Sidearm.stl)
+- 1 x [Eureka Voron Dock](STLs/Eureka%20Dock.stl)
+- 1 x [Eureka Voron Dock Arm](STLs/Eureka%202.4%20and%20Trident%20Dock%20Arm.stl)
+- 1 x [Eureka Voron Dock Sidearm](STLs/Eureka%202.4%20and%20Trident%20Dock%20Sidearm.stl)
 
 **BOM**
 
