@@ -22,7 +22,7 @@ Operation of the probe uses Klicky based macros to ensure the probe correctly at
 Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting and assisting with development of this project.
 
 ## BOM
-- 2	* EurekaProbe PCB
+- 2	* EurekaProbe PCB [JLCPCB](https://jlcpcb.com/)
 - 4	* 8x3-3 Countersunk magnets [Aliexpress](https://www.aliexpress.com/item/1005001610172466.html)
 - 4 * M2.5x5mm Torx countersunk screw [Aliexpress](https://www.aliexpress.com/item/33006942612.html)
 - 4 * SMTSO-M2.5-2.5ET [Aliexpress](https://www.aliexpress.com/item/1005003780036815.html)
