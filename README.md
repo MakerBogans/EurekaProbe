@@ -21,16 +21,6 @@ Operation of the probe uses Klicky based macros to ensure the probe correctly at
 ## Acknowledgements
 Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting and assisting with development of this project.
 
-## Assembly
-
-![eurekacarriage](https://user-images.githubusercontent.com/101759743/212459111-ce22d553-6cc3-424f-a5b7-5ea85d2c19fa.jpg)
-
-- Solder SMTSO nuts to both PCBs
-- Solder microswitch to one of the PCBs
-- Solder JST header to the other PCB
-- Screw countersunk magents to PCBs via SMTSO nuts with Torx screws. Ensure you have mixed polarity across the pairs
-- Attach toolhead PCB to carriage via M3x5 low profile bolts into heat inserts
-
 ## BOM
 - 2	* EurekaProbe PCB
 - 4	* 8x3-3 Countersunk magnets [Aliexpress](https://www.aliexpress.com/item/1005001610172466.html)
@@ -40,6 +30,16 @@ Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting an
 - 2 * M3x5x4 heat inserts [Aliexpress](https://www.aliexpress.com/item/1005003314830904.html)
 - 1 * Omron D2F [DigiKey](https://www.digikey.com.au/en/products/detail/omron-electronics-inc-emc-div/D2F-5/8593136)
 - 1 * JST B2B-XH-A [Aliexpress](https://www.aliexpress.com/item/4000029861567.html)
+
+## Assembly
+
+![eurekacarriage](https://user-images.githubusercontent.com/101759743/212459111-ce22d553-6cc3-424f-a5b7-5ea85d2c19fa.jpg)
+
+- Solder SMTSO nuts to both PCBs
+- Solder microswitch to one of the PCBs (The middle pin of the microswitch is not connected to the circuit on the PCB so it is safe to solder to the PCB to ensure a stronger bond between the microswitch and the PCB)
+- Solder JST header to the other PCB
+- Screw countersunk magents to PCBs via SMTSO nuts with Torx screws. Ensure you have mixed polarity across the pairs
+- Attach toolhead PCB to carriage via M3x5 low profile bolts into heat inserts
 
 ## Carriage mounts
 
