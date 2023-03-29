@@ -51,9 +51,9 @@ A Eureka compatible carriage is avilable for the DirtyBird toolhead over on [the
 
 ## Probe docks
 
-A dock is available and tested for the Voron Trident. It is compatible with Klicky style mounts and includes a fixed sidemount designed to suit the Trident with a Dirtybird toolhead carriage. Other printers are likely to work with the variable Klicky arm but are untested.
+A dock is available Voron Trident and Voron V2. It is compatible with Klicky style mounts and includes a fixed sidemount designed to suit the Voron Trident/V2 with a Dirtybird toolhead carriage. Other printers are likely to work with the variable Klicky arm but are untested.
 
-### Voron 2.4 and Voron Trident probe dock
+### Voron Trident and Voron 2.4 probe dock
 
 ![](Images/2.4%20and%20Trident%20dock%20cad.png)
 
