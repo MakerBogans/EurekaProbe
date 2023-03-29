@@ -33,7 +33,7 @@ Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting an
 
 ## Purchasing a Eurkea Probe kit
 
-- [Orvil3D AU](https://orvil3d.com/products/eureka-probe)
+- [Orvil3D (AU)](https://orvil3d.com/products/eureka-probe)
 
 ## Assembly
 
