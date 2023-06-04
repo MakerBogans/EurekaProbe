@@ -31,7 +31,7 @@ Thank you to the [MakerBogans](https://github.com/MakerBogans) for supporting an
 - 1 * Omron D2F [DigiKey](https://www.digikey.com.au/en/products/detail/omron-electronics-inc-emc-div/D2F-5/8593136)
 - 1 * JST B2B-XH-A [Aliexpress](https://www.aliexpress.com/item/4000029861567.html)
 
-## Purchasing a Eurkea Probe kit
+## Purchasing a Eureka Probe kit
 
 - [Orvil3D (AU)](https://orvil3d.com/products/eureka-probe)
 
